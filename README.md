@@ -1,3 +1,4 @@
+🏷️[Abrir Proyecto](https://github.com/JorgeRivero1/Deteccion_de_URLs_maliciosas_SVM/blob/main/Detecci%C3%B3n%20de%20URLs%20maliciosas_Support%20Vector%20Machine.ipynb)
 # 🔍 Detección de URLs Maliciosas con Support Vector Machine (SVM)  
 
 Este proyecto aborda la detección de URLs maliciosas utilizando **Support Vector Machines (SVM)**, un potente algoritmo de clasificación basado en la teoría de los espacios de características y los márgenes óptimos de separación.  
